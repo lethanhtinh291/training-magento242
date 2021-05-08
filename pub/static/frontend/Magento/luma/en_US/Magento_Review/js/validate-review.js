@@ -1,0 +1,1 @@
+/Users/Working/Traning/magento/magento-ce-242/vendor/magento/module-review/view/frontend/web/js/validate-review.js

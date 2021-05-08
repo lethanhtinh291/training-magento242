@@ -1,0 +1,1 @@
+/Users/Working/Traning/magento/magento-ce-242/vendor/magento/module-configurable-product/view/frontend/web/js/catalog-add-to-cart-mixin.js

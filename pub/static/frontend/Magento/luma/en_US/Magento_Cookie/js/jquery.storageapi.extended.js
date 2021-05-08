@@ -1,0 +1,1 @@
+/Users/Working/Traning/magento/magento-ce-242/vendor/magento/module-cookie/view/base/web/js/jquery.storageapi.extended.js

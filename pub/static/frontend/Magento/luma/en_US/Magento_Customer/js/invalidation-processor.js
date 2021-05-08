@@ -1,0 +1,1 @@
+/Users/Working/Traning/magento/magento-ce-242/vendor/magento/module-customer/view/frontend/web/js/invalidation-processor.js

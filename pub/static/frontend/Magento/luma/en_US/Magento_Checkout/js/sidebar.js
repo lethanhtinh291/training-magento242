@@ -1,0 +1,1 @@
+/Users/Working/Traning/magento/magento-ce-242/vendor/magento/module-checkout/view/frontend/web/js/sidebar.js

@@ -1,0 +1,1 @@
+/Users/Working/Traning/magento/magento-ce-242/vendor/magento/theme-frontend-blank/Magento_Theme/web/js/theme.js
